@@ -6,6 +6,6 @@ Base: Musicbot ( https://github.com/Just-Some-Bots/MusicBot/blob/master/README.m
 
 https://discordbots.org/bot/520215940458217482
 
-[![Discord](https://discordapp.com/api/guilds/351137237297266688/widget.png?style=shield)]
+[![Discord](https://discordapp.com/api/guilds/351137237297266688/widget.png?style=shield)](https://www.python.org/downloads/)
 
-[![Discord](https://discordbots.org/api/widget/520215940458217482.svg)]
+[![Discord](https://discordbots.org/api/widget/520215940458217482.svg)](https://www.python.org/downloads/)
