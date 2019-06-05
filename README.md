@@ -1,4 +1,4 @@
-Base: Musicbot ( https://github.com/Just-Some-Bots/MusicBot/blob/master/README.md )
+Base: Musicbot ( https://github.com/Just-Some-Bots/MusicBot/blob/master )
 
 [![GitHub release](https://img.shields.io/github/release/Just-Some-Bots/MusicBot.svg?style=flat-square)](https://just-some-bots.github.io/MusicBot/)
 
